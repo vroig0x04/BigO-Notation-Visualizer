@@ -1,2 +1,7 @@
 # BigO-Notation-Visualization
-Aplicación que permite obtener una representación visual de los niveles de complejidad expresados en notación O(n). Concretamente, permite visualizar: O(n), O(n*log n), O(n^2) y O(n^3).
+
+Copyright (c) 2026 Vicent Roig. All rights reserved.
+
+WARNING: This software is the proprietary property of Vicent Roig.
+Unauthorized copying, modification, or distribution of this file, via any 
+medium, is strictly prohibited. Proprietary and confidential.
